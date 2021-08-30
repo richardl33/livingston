@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/richardl33/livingston/issues"
   },
-  "homepage": "https://github.com/richardl33/livingston#readme"
+  "homepage": "https://github.com/richardl33/livingston#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.19",
+    "@types/react-dom": "^17.0.9",
+    "typescript": "^4.4.2"
+  }
 }
